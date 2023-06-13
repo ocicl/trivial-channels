@@ -1,0 +1,10 @@
+* trivial-channels
+
+Very simple thread-safe channels with timeout
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rpav/trivial-channels.git   |
+| commit  | e237011  |
+| systems | trivial-channels |
+|---------+-------------------------------------------|
+
